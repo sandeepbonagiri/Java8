@@ -1,6 +1,6 @@
-package package1;
+package package2;
 
-public class Class1 {
+public class Class2 {
 
 	public static void main(String[] args) {
 
@@ -11,6 +11,7 @@ public class Class1 {
 	    s.greet("sandeep");
 	    GreetingService d = (actual)->System.out.println("Hello"+ " " +actual.length());
 	    d.greet("Sandeep");
+d.greet("Saandeep");
 		
 	}
 }
