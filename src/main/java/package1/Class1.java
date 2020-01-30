@@ -1,6 +1,6 @@
-package package2;
+package package1;
 
-public class Class2 {
+public class Class1 {
 
 	public static void main(String[] args) {
 
