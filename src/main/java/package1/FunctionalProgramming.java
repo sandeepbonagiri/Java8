@@ -13,7 +13,7 @@ public class FunctionalProgramming {
 		// "Sreekanth:Bonagiri"); 
 		 String[] str = {"Sandeep:Bonagiri", "Ravi:Kumar",
 				 "Sreekanth:Bonagiri"};
-		 String[] str2 = {"Sandeep","Ravi","Sreekanth"};
+		 String[] str2 = {"Sandeep","Ravi","Sreeka"};
 		 for(String str1 : str) 
 		 {
 			 System.out.println(str1);
@@ -41,17 +41,10 @@ public class FunctionalProgramming {
 			 }
 		  
 		 }
+	}
 		 
-		 
+}	 
 
-
-		/*
-		 * String string = "Sandeep:Bonagiri", "Sandeep:Avinash"; String[] parts =
-		 * string.split(":"); String part1 = parts[0]; // 004- String part2 = parts[1];
-		 * // 034556 System.out.println(part1); System.out.println(part2);
-		 */
 
 		
-	}
-
-}
+	
