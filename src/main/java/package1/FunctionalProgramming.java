@@ -13,7 +13,7 @@ public class FunctionalProgramming {
 		// "Sreekanth:Bonagiri"); 
 		 String[] str = {"Sandeep:Bonagiri", "Ravi:Kumar",
 				 "Sreekanth:Bonagiri"};
-		 String[] str2 = {"Sandeep","Ravi","Sreekanth"};
+		 String[] str2 = {"Sandeep","Ravi","Sreeka"};
 		 for(String str1 : str) 
 		 {
 			 System.out.println(str1);
