@@ -26,14 +26,19 @@ public class FunctionalProgramming {
 				 System.out.println(true);
 				 System.out.println(parts[0]);
 				 //added new code
-				 System.out.println(true);
-				 System.out.println(true);
-				 System.out.println(true);
-				 System.out.println(true);
-
+				 System.out.println("statshing my chnages");
+				 System.out.println(false);
+				 System.err.println(parts[0]);
+				 System.out.println(str2[0]);
 			  
 			  }
 			 else {
+				 System.out.println(false);
+				 System.err.println(parts[0]);
+				 System.out.println(str2[0]);
+				 System.out.println(false);
+				 System.err.println(parts[0]);
+				 System.out.println(str2[0]);
 				 System.out.println(false);
 				 System.err.println(parts[0]);
 				 System.out.println(str2[0]);
@@ -43,15 +48,9 @@ public class FunctionalProgramming {
 		 }
 		 
 		 
-
-
-		/*
-		 * String string = "Sandeep:Bonagiri", "Sandeep:Avinash"; String[] parts =
-		 * string.split(":"); String part1 = parts[0]; // 004- String part2 = parts[1];
-		 * // 034556 System.out.println(part1); System.out.println(part2);
-		 */
+	}
+}
 
 		
-	}
 
-}
+	
