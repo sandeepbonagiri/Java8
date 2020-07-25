@@ -27,10 +27,18 @@ public class FunctionalProgramming {
 				 System.out.println(parts[0]);
 				 //added new code
 				 System.out.println("statshing my chnages");
-
+				 System.out.println(false);
+				 System.err.println(parts[0]);
+				 System.out.println(str2[0]);
 			  
 			  }
 			 else {
+				 System.out.println(false);
+				 System.err.println(parts[0]);
+				 System.out.println(str2[0]);
+				 System.out.println(false);
+				 System.err.println(parts[0]);
+				 System.out.println(str2[0]);
 				 System.out.println(false);
 				 System.err.println(parts[0]);
 				 System.out.println(str2[0]);
