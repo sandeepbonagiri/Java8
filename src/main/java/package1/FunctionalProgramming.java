@@ -26,6 +26,10 @@ public class FunctionalProgramming {
 				 System.out.println(true);
 				 System.out.println(parts[0]);
 				 //added new code
+				 System.out.println(true);
+				 System.out.println(true);
+				 System.out.println(true);
+				 System.out.println(true);
 
 			  
 			  }
