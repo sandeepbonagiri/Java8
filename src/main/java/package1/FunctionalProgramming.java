@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package package1;
 
 import java.util.Arrays;
@@ -48,15 +49,9 @@ public class FunctionalProgramming {
 		 }
 		 
 		 
-
-
-		/*
-		 * String string = "Sandeep:Bonagiri", "Sandeep:Avinash"; String[] parts =
-		 * string.split(":"); String part1 = parts[0]; // 004- String part2 = parts[1];
-		 * // 034556 System.out.println(part1); System.out.println(part2);
-		 */
+	}
+}
 
 		
-	}
 
-}
+	
