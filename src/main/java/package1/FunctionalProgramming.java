@@ -13,7 +13,7 @@ public class FunctionalProgramming {
 		// "Sreekanth:Bonagiri"); 
 		 String[] str = {"Sandeep:Bonagiri", "Ravi:Kumar",
 				 "Sreekanth:Bonagiri"};
-		 String[] str2 = {"Sandeep","Ravi","Sreeka"};
+		 String[] str2 = {"Sandeep","Ravi","Sreekanth"};
 		 for(String str1 : str) 
 		 {
 			 System.out.println(str1);
@@ -26,14 +26,19 @@ public class FunctionalProgramming {
 				 System.out.println(true);
 				 System.out.println(parts[0]);
 				 //added new code
-				 System.out.println(true);
-				 System.out.println(true);
-				 System.out.println(true);
-				 System.out.println(true);
-
+				 System.out.println("statshing my chnages");
+				 System.out.println(false);
+				 System.err.println(parts[0]);
+				 System.out.println(str2[0]);
 			  
 			  }
 			 else {
+				 System.out.println(false);
+				 System.err.println(parts[0]);
+				 System.out.println(str2[0]);
+				 System.out.println(false);
+				 System.err.println(parts[0]);
+				 System.out.println(str2[0]);
 				 System.out.println(false);
 				 System.err.println(parts[0]);
 				 System.out.println(str2[0]);
@@ -41,6 +46,8 @@ public class FunctionalProgramming {
 			 }
 		  
 		 }
+		 
+		 
 	}
 		 
 }	 
