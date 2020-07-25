@@ -11,8 +11,10 @@ public class Class1 {
 	    s.greet("sandeep");
 	    GreetingService d = (actual)->System.out.println("Hello"+ " " +actual.length());
 	    d.greet("Sandeep");
+            d.greet("Sandeep");
+
 d.greet("Saandeep");
-		
+		System.out.println("Hi"+name);
 	}
 }
 
