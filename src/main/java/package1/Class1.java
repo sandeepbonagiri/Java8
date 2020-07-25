@@ -6,7 +6,7 @@ public class Class1 {
 
 		
 		GreetingService s = (name)->System.out.println("Hi"+name);
-	
+		System.out.println("Hi");
 	    s.greet("vinoth");
 	    s.greet("sandeep");
 	    GreetingService d = (actual)->System.out.println("Hello"+ " " +actual.length());
