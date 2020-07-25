@@ -12,7 +12,7 @@ public class FunctionalProgramming {
 		 //List<String> list2 = List.of("Sandeep:Bonagiri", "Ravi:Kumar",
 		// "Sreekanth:Bonagiri"); 
 		 String[] str = {"Sandeep:Bonagiri", "Ravi:Kumar",
-				 "Sreekanth:Bonagiri"};
+				 "Sreekanth:Bonagi"};
 		 String[] str2 = {"Sandeep","Ravi","Sreekanth"};
 		 for(String str1 : str) 
 		 {
