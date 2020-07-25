@@ -14,7 +14,6 @@ public class Class1 {
             d.greet("Sandeep");
 
 d.greet("Saandeep");
-		System.out.println("Hi"+name);
 	}
 }
 
